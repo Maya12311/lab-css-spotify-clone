@@ -6,3 +6,114 @@ Green: #00B172
 White: #FFF
 
 */
+
+html {
+    font-size: 16px;
+}
+
+body {
+ margin: 0;
+ padding: 0; 
+ color: #1A1A1A;  
+}
+
+.greenBox {
+    background-color: #00B172;
+    color: #FFF;    
+}
+
+.pictureSize {
+    width: 5rem;
+  
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    
+}
+
+.h2Section3 {
+    text-align: center;
+    ;
+}
+
+.h2ForSection4 {
+    font: bolder;
+    
+}
+
+.imageLastSection {
+    width: 4rem;
+    height: 4rem;
+}
+    
+   
+   
+    
+
+
+.kanyPic {
+    width: 9rem;
+    padding-right: 2rem;
+    padding-top: 3rem;
+    margin-bottom: 20rem;
+    padding-bottom: 20rem;
+    height: 16rem;
+    
+   
+    
+}
+
+.lastSectionFont {
+  text-align: left; 
+  
+  
+    
+}
+
+.fontH2 {
+padding-right: 3%;
+text-decoration: underline;
+text-decoration-color: #00B172;
+
+}
+
+.h2toGreen {
+   color: #00B172; 
+}
+
+
+.styleBox2 {
+    padding-top: 1rem;
+}
+
+.styleBox3 {
+    padding-top: 2.5rem;
+}
+
+.mother {
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+order: 1;
+
+
+}
+
+.firstKid {
+   
+}
+
+.secondKid{
+
+}
+
+.thirdKid{
+
+}
