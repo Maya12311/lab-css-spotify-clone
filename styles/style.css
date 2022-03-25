@@ -101,13 +101,13 @@ display: flex;
 flex-direction: row;
 justify-content: center;
 align-items: center;
-order: 1;
-
 
 }
 
 .firstKid {
-   
+  align-items: flex-start;
+  align-self: start;
+  align-content: flex-start; 
 }
 
 .secondKid{
